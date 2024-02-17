@@ -1,0 +1,16 @@
+D:\DRIVE D (22-09-2021)\Poriaksa Satria I (Data Pribadi)\Kuliah Lagi\SMT 2\Pemrograman Visual\Aplikasi_Kasir\Aplikasi_Kasir\bin\Debug\net8.0-windows\Aplikasi_Kasir.exe
+D:\DRIVE D (22-09-2021)\Poriaksa Satria I (Data Pribadi)\Kuliah Lagi\SMT 2\Pemrograman Visual\Aplikasi_Kasir\Aplikasi_Kasir\bin\Debug\net8.0-windows\Aplikasi_Kasir.deps.json
+D:\DRIVE D (22-09-2021)\Poriaksa Satria I (Data Pribadi)\Kuliah Lagi\SMT 2\Pemrograman Visual\Aplikasi_Kasir\Aplikasi_Kasir\bin\Debug\net8.0-windows\Aplikasi_Kasir.runtimeconfig.json
+D:\DRIVE D (22-09-2021)\Poriaksa Satria I (Data Pribadi)\Kuliah Lagi\SMT 2\Pemrograman Visual\Aplikasi_Kasir\Aplikasi_Kasir\bin\Debug\net8.0-windows\Aplikasi_Kasir.dll
+D:\DRIVE D (22-09-2021)\Poriaksa Satria I (Data Pribadi)\Kuliah Lagi\SMT 2\Pemrograman Visual\Aplikasi_Kasir\Aplikasi_Kasir\bin\Debug\net8.0-windows\Aplikasi_Kasir.pdb
+D:\DRIVE D (22-09-2021)\Poriaksa Satria I (Data Pribadi)\Kuliah Lagi\SMT 2\Pemrograman Visual\Aplikasi_Kasir\Aplikasi_Kasir\obj\Debug\net8.0-windows\Aplikasi_Kasir.Form1.resources
+D:\DRIVE D (22-09-2021)\Poriaksa Satria I (Data Pribadi)\Kuliah Lagi\SMT 2\Pemrograman Visual\Aplikasi_Kasir\Aplikasi_Kasir\obj\Debug\net8.0-windows\Aplikasi_Kasir.vbproj.GenerateResource.cache
+D:\DRIVE D (22-09-2021)\Poriaksa Satria I (Data Pribadi)\Kuliah Lagi\SMT 2\Pemrograman Visual\Aplikasi_Kasir\Aplikasi_Kasir\obj\Debug\net8.0-windows\Aplikasi_Kasir.GeneratedMSBuildEditorConfig.editorconfig
+D:\DRIVE D (22-09-2021)\Poriaksa Satria I (Data Pribadi)\Kuliah Lagi\SMT 2\Pemrograman Visual\Aplikasi_Kasir\Aplikasi_Kasir\obj\Debug\net8.0-windows\Aplikasi_Kasir.AssemblyInfoInputs.cache
+D:\DRIVE D (22-09-2021)\Poriaksa Satria I (Data Pribadi)\Kuliah Lagi\SMT 2\Pemrograman Visual\Aplikasi_Kasir\Aplikasi_Kasir\obj\Debug\net8.0-windows\Aplikasi_Kasir.AssemblyInfo.vb
+D:\DRIVE D (22-09-2021)\Poriaksa Satria I (Data Pribadi)\Kuliah Lagi\SMT 2\Pemrograman Visual\Aplikasi_Kasir\Aplikasi_Kasir\obj\Debug\net8.0-windows\Aplikasi_Kasir.vbproj.CoreCompileInputs.cache
+D:\DRIVE D (22-09-2021)\Poriaksa Satria I (Data Pribadi)\Kuliah Lagi\SMT 2\Pemrograman Visual\Aplikasi_Kasir\Aplikasi_Kasir\obj\Debug\net8.0-windows\Aplikasi_Kasir.dll
+D:\DRIVE D (22-09-2021)\Poriaksa Satria I (Data Pribadi)\Kuliah Lagi\SMT 2\Pemrograman Visual\Aplikasi_Kasir\Aplikasi_Kasir\obj\Debug\net8.0-windows\refint\Aplikasi_Kasir.dll
+D:\DRIVE D (22-09-2021)\Poriaksa Satria I (Data Pribadi)\Kuliah Lagi\SMT 2\Pemrograman Visual\Aplikasi_Kasir\Aplikasi_Kasir\obj\Debug\net8.0-windows\Aplikasi_Kasir.pdb
+D:\DRIVE D (22-09-2021)\Poriaksa Satria I (Data Pribadi)\Kuliah Lagi\SMT 2\Pemrograman Visual\Aplikasi_Kasir\Aplikasi_Kasir\obj\Debug\net8.0-windows\Aplikasi_Kasir.genruntimeconfig.cache
+D:\DRIVE D (22-09-2021)\Poriaksa Satria I (Data Pribadi)\Kuliah Lagi\SMT 2\Pemrograman Visual\Aplikasi_Kasir\Aplikasi_Kasir\obj\Debug\net8.0-windows\ref\Aplikasi_Kasir.dll

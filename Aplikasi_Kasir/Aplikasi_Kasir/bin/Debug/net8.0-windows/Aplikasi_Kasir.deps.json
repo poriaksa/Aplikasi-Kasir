@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Aplikasi_Kasir/1.0.0": {
+        "runtime": {
+          "Aplikasi_Kasir.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Aplikasi_Kasir/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
